@@ -1,0 +1,37 @@
+* {
+  background-color: rgb(255, 198, 92);
+  font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+  border: 4px dotted brown;
+  font-size: 60px;
+  font-style: italic;
+  /* font-variant: small-caps; */
+  font-weight: 900;
+  
+}
+
+ul {
+  border: 4px double brown;
+  padding: 100px;
+  list-style-position: inside;
+  list-style-type: none;
+  text-align: center;
+  color: brown;
+  font-weight: 600;
+  place-items: center;
+
+}
+
+li {
+  padding: 8px;
+  width: fit-content;
+  display: block;
+  margin: 32px;
+  border: 4px brown;
+  border-style: dashed;
+
+}
